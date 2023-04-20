@@ -1,4 +1,4 @@
-> # [IMDb|dꓷMI](https://kapishverma.github.io/IMDb_Clone/ "Want to try? Hit this link")
+> # [IMDb|dꓷMI](https://github.com/shubhamrai11/ "Want to try? Hit this link")
 ![](media/1.png)
  >## Initialising
 
